@@ -90,15 +90,15 @@ mkdir checkpoints
 
 Download UL14 upon request. You may use the request [Template](docs/request.md).
 
-Additionally, you need to download the pretrain weight of cvt13 from this [link](https://onedrive.live.com/?authkey=%21AMXesxbtKwsdryE&id=56B9F9C97F261712%2115004&cid=56B9F9C97F261712).
+Additionally, download the pretrain weight of cvt13 from this [link](https://onedrive.live.com/?authkey=%21AMXesxbtKwsdryE&id=56B9F9C97F261712%2115004&cid=56B9F9C97F261712).
 
-**Important:** you need to change the **pretrain_path**, **train_dir**, **val_dir**, **test_dir** in the config file.
+**Important:** change the **pretrain_path**, **train_dir**, **val_dir**, **test_dir** in the config file.
 
 ## Train & Evaluation
 
 ### Training and Testing
 
-You could execute the following command to implement the entire process of training and testing.
+Execute the following command to implement the entire process of training and testing.
 
 ```
 bash train_test_local.sh
