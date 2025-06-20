@@ -90,7 +90,7 @@ mkdir checkpoints
 
 Download UL14 upon request. You may use the request [Template](docs/request.md).
 
-Additionally, download the pretrain weight of cvt13 from this [link](https://onedrive.live.com/?authkey=%21AMXesxbtKwsdryE&id=56B9F9C97F261712%2115004&cid=56B9F9C97F261712).
+Additionally, download the pretrain weight of cvt13 from this [link](https://seunic-my.sharepoint.cn/:u:/g/personal/230238525_seu_edu_cn/EUnD6wdRZ3hKhefxpqBsdpIBqzxzFGN7mm2rL548QZXtZw?e=YvwDFJ).
 
 **Important:** change the **pretrain_path**, **train_dir**, **val_dir**, **test_dir** in the config file.
 
